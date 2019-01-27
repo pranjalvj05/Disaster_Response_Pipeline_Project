@@ -2,7 +2,7 @@
 
 ## Disaster Response Pipeline Project
 
-###Libraries used :
+### Libraries used :
 
 nltk 3.3.0
 numpy 1.15.2
@@ -11,7 +11,7 @@ scikit-learn 0.20.0
 sqlalchemy 1.2.12
 
 
-###This project has following files
+### This project has following files
 
 
 workspace/data/process_data.py:
